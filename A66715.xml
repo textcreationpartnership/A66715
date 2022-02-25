@@ -1,0 +1,286 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>A sermon preached at East Dearham in Norf. Jan. 30, 1661 being the day of the most horrid murther of that most pious and incomparable prince, King Charles the First of England &amp;c. / by John Winter ...</title>
+            <author>Winter, John, 1621?-1698?</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1661</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 42 KB of XML-encoded text transcribed from 12 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2013-12">2013-12 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A66715</idno>
+            <idno type="STC">Wing W3083</idno>
+            <idno type="STC">ESTC R35262</idno>
+            <idno type="EEBO-CITATION">15090230</idno>
+            <idno type="OCLC">ocm 15090230</idno>
+            <idno type="VID">103211</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A66715)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 103211)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 1581:36)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>A sermon preached at East Dearham in Norf. Jan. 30, 1661 being the day of the most horrid murther of that most pious and incomparable prince, King Charles the First of England &amp;c. / by John Winter ...</title>
+                  <author>Winter, John, 1621?-1698?</author>
+               </titleStmt>
+               <extent>[2], 21 p.   </extent>
+               <publicationStmt>
+                  <publisher>[s.n.],</publisher>
+                  <pubPlace>London printed :</pubPlace>
+                  <date>1662.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Reproduction of original in the Harvard University Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Charles --  I, --  King of England, 1600-1649 --  Execution --  Sermons.</term>
+               <term>Bible. --  O.T. --  Chronicles, 1st, XXXV, 24 --  Sermons.</term>
+               <term>Sermons, English --  17th century.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2012-04</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2012-06</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2012-11</date>
+            <label>Colm MacCrossan</label>Sampled and proofread</change>
+         <change>
+            <date>2012-11</date>
+            <label>Colm MacCrossan</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2013-02</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:103211:1"/>
+            <p>A SERMON PREACHED At Eaſt <hi>Dearham</hi> in <hi>Norf.</hi> Jan. 30. 1661. BEING The day of the moſt horrid MURTHER of that moſt PIOUS and INCOMPARABLE PRINCE King <hi>CHARLES</hi> the Firſt of <hi>England,</hi> &amp;c. By <hi>John Winter</hi> Curate <hi>Ibid.</hi>
+            </p>
+            <q>
+               <p>Oh that my head were waters, and mine eyes a fountaine of teares.</p>
+               <bibl>
+                  <hi>Jerem. 9.1.</hi>
+               </bibl>
+            </q>
+            <q>
+               <p>Illa tantum demonſtrare, eſt deſtruere.</p>
+               <bibl>
+                  <hi>Tertul.</hi>
+               </bibl>
+            </q>
+            <q>
+               <p>Expletur lachrymis egeriturque dolor.</p>
+               <bibl>
+                  <hi>Ovid. Triſ.</hi>
+               </bibl>
+            </q>
+            <p>
+               <hi>LONDON.</hi> Printed in the Year, 1662.</p>
+         </div>
+      </front>
+      <body>
+         <div type="sermon">
+            <pb facs="tcp:103211:2"/>
+            <pb n="1" facs="tcp:103211:2"/>
+            <epigraph>
+               <q>
+                  <bibl>
+                     <hi>2 Chron. 35.24.</hi>
+                  </bibl>
+                  <p>And all Judah and Jeruſalem mourned for Joſiah.</p>
+               </q>
+            </epigraph>
+            <p>
+               <seg rend="decorInit">A</seg>ND who can blame their mourning? or who can forbear to mourn in ſuch a caſe? <hi>Judah</hi> was Gods people; <hi>Jeruſalem</hi> his holy Ci<g ref="char:EOLhyphen"/>ty; <hi>Joſiah</hi> the beſt of the Kings of <hi>Judah,</hi> and taken away by an untimely death. <hi>Hìnc illae lachrimae,</hi> hence theſe ſalt waves and ſable weeds. <hi>And all Judah,</hi> &amp;c.</p>
+            <p>Kings be the beſt of the beſt people; under God the glory and ſafety of Churches and Nations; whoſe felicity holds <hi>in capite.</hi>
+               <note place="margin">Gen. 3.15.</note> Even the Kingdom of Chriſt had long ſince been overthrown, could the old Serpent have woun<g ref="char:EOLhyphen"/>ded the head, as well as he can bruiſe the heel. Howbeit, his implacable ſpight declares whereat he doth aim; who ſeeing his ſting too ſhort to reach Chriſt in Perſon, perſe<g ref="char:EOLhyphen"/>cutes him <hi>in effigie.</hi> He cannot ſimite the annointed Lord of life, and therefore ſtrikes at the life of the Lords an<g ref="char:EOLhyphen"/>nointed. He moſt labours to deface the glory of them, who moſt eminently bear Gods Image; and becauſe the Lord hath done Princes the honour, to call them Gods; he envyes them the happineſs to dye like men.<note place="margin">Pſal. 82.</note> He knows right-well, that the fall alone of the Royal Oake and
+<pb n="2" facs="tcp:103211:3"/>Princely Cedar, will break down the undergrowing Plants, and expoſe the poor Shrubs to all diſaſters. And this was the cauſe of Gods <hi>Lebanon, Judah</hi> and <hi>Jeruſalem;</hi> of which, when it was too late, the people became ſenſible. Whilſt <hi>Joſiah</hi> lived, perhaps (like other Nations ſince,) they thought his Office and Dignity unneceſſary, troubleſome, and burthenſome: But by the waters of <hi>Babylon</hi> they beſt un<g ref="char:EOLhyphen"/>derſtood the worth of their late King, under whoſe gracious Reign they ſaw peace and truth in <hi>Sion.</hi> And then <hi>all Judah and Jeruſalem,</hi> &amp;c.</p>
+            <p>In which words are
+<list>
+                  <item>the Perſon mourned for, and</item>
+                  <item>the Perſons mourning.</item>
+               </list>
+            </p>
+            <p>Or, here is
+<list>
+                  <item>
+                     <hi>Joſiahs</hi> death, and</item>
+                  <item>His peoples grief.</item>
+               </list>
+            </p>
+            <p>The perſon here lamented is <hi>Joſiah,</hi> who is conſiderable in three reſpects: 1. As a good man. 2. As a good King. And, 3. As being both an excellent man, and an admirable King, cut off in the midſt of his years by a bloudy death. And by that time it will be no wonder, that <hi>all Judah and Jeruſalem mourned for Joſiah.</hi>
+            </p>
+            <p>And firſt, <hi>Joſiah</hi> was a good man. His name promiſed no leſs; and he performed no leſs than his name promi<g ref="char:EOLhyphen"/>miſed, that is, to be a burning and ſhining Lord. God fre<g ref="char:EOLhyphen"/>quently gives ſignificant names to his moſt eminent ſer<g ref="char:EOLhyphen"/>vants. <hi>Jacob</hi> for wreſtling with God is named <hi>Iſrael,</hi> Gen. 32.28. The famous Prophet, who was true to his God in ſacred things, and yet faithfull to his idolatrous Prince in civil matters,<note place="margin">Mark 3.17.</note> had to his name <hi>Daniel,</hi> that is, the judg<g ref="char:EOLhyphen"/>ment of God. The two brethren Apoſtles, who were to be a terrour to ſinners, and a light to the Church, are named by Chriſt, <hi>Boanerges,</hi> the Sons of thunder. And this <hi>Jo<g ref="char:EOLhyphen"/>ſiah,</hi> deſigned by God for an eternal monument of piety,
+<pb n="3" facs="tcp:103211:3"/>had his name given long before his being, 1 <hi>Kings.</hi> 13.2. being in this reſpect like unto the King of Kings, whoſe name was given, <hi>before he was conceived in the womb,</hi> Luke 2.21. Of this <hi>Joſiah</hi> may we ſay, what Chriſt ſaid of <hi>John</hi> the Baptiſt, <hi>John</hi> 5.35. <hi>He was a burning and a ſhining light;</hi> burning in faith, ſhining in charity; burning in zeal towards God, ſhining in goodneſs among men. And pi<g ref="char:EOLhyphen"/>ty it were, (might God think ſo) that ſuch a man ſhould dye; the world having ſo ſmall a number, and ſo great a need of them. When <hi>Sauls</hi> blind zeal for his raſh oath brought <hi>Jonathans</hi> life in hazard, the whole Army inter<g ref="char:EOLhyphen"/>poſed for his reſcue. <hi>Shall Jonathan dye,</hi> (ſaid they) <hi>who hath wrought this great ſalvation? God forbid,</hi> 1 Sam. 14.45. pity that <hi>Jonathan,</hi> one that doth good in <hi>Iſrael,</hi> ſhould dye at all; more pity it is, that he ſhould dye by the Sword of the wicked. One good mans death, is every good mans wound; <hi>So that for a goad man</hi> (as the Apoſtle ſaith) <hi>ſomke would even dare to dye,</hi> Rom. 5.7. And there<g ref="char:EOLhyphen"/>fore, when <hi>the righteous periſh, and no man lays it to heart,</hi> it is a moſt certain ſign of greater evil to come, <hi>Iſal.</hi> 57.1. So ſoon as righteous <hi>Lot</hi> was ſecured in <hi>Zoar,</hi> fire and brimſtone from Heaven fell upon <hi>Sodom,</hi> Gen. 19.24. <hi>Jo<g ref="char:EOLhyphen"/>aſh</hi> and his people had no ſooner murthered holy <hi>Zechari<g ref="char:EOLhyphen"/>ah,</hi> but God delivered them into the hands of the hoſt of <hi>Syria.</hi> Good men are as tutelary Angels in their ſeveral ſtations; the wicked world, which cannot endure them, cannot indure without them. Such was <hi>Joſiah</hi> unto <hi>Ju<g ref="char:EOLhyphen"/>dah</hi> and <hi>Jeruſalem.</hi> A good man; ſo the ſtory of his life recordeth. To him <hi>Jobs</hi> character aptly ſquareth,<note place="margin">Job 1.</note> 
+               <hi>Perſect and upright, one that feared God and eſchewed evil.</hi> So that had he been a private perſon, his vertues muſt have made him publick; his goodneſs made him beloved, and therefore his loſs the more to be lamented. <hi>And all Judah,</hi> &amp;c.</p>
+            <pb n="5" facs="tcp:103211:4"/>
+            <p>But ſecondly, Look upon <hi>Joſiah</hi> King of <hi>Judah,</hi> and King in <hi>Jeruſalem;</hi> and then common reaſon will teach na<g ref="char:EOLhyphen"/>ture to pay more than an ordinary tribute of ſighs and tears at his laſt obſequies. Publick perſons Herſes may juſtly challenge the diſtilliation of private perſons eyes. All rivulets and little torrents empty themſelves into the main Ocean. Can any man forbid, or fault this holy water? Dethroned and enthralled Princes, have had this paid them by their enſlaved Subjects, <hi>Cum nil nisì flere relictum,</hi> when they were able to do no more, and could do no leſs. The Church of God in all ages hath bewailed the loſs of eminent Perſons, though drop'd away with age, and ga<g ref="char:EOLhyphen"/>thered to their fathers with the Long Rake of ſilent time. The death of old father <hi>Jacob,</hi> was bewailed by his ſons ſeven dayes, with a great and very ſore lamentation, <hi>Gen. laſt.</hi> 10. And the <hi>Canaanites</hi> called it a grievous mourn<g ref="char:EOLhyphen"/>ing, <hi>verſ.</hi> 11. It made an impreſſion even in the Aliens and Inſidels.</p>
+            <p>Thus when <hi>Moſes</hi> the faithfull Prince and Ruler was dead, all <hi>Iſrael</hi> mourned for him thirty dayes in the plains of <hi>Moab,</hi> Deut. <hi>laſt. verſ.</hi> 8. So great a loſs hath a whole Nation in one <hi>Moſes,</hi> that they may proſecute his aſſum<g ref="char:EOLhyphen"/>ptions, as <hi>Eliſha</hi> did <hi>Elijah,</hi> ſaying, <hi>My father, my father, the chariots of Iſrael, and the horſemen thereof!</hi> 2 King. 2.12. Chariots are both for War and Peace; and in both, good Princes are <hi>Iſraels</hi> chariots. Without them Nations may have <hi>Jehu</hi>-drivers for a time; who <hi>Phaeton</hi>-like may ſet the world on fire, and with the <hi>Aegyptians,</hi> drown all in a red Sea of bloud, violence, and deſtruction; ſo by wofull experience, teaching <hi>all Judah and Jeruſalem to mourn for</hi> one <hi>Joſiah.</hi>
+            </p>
+            <p>All Nations are taught of God, by the light of nature, to reverence their Kings whilſt they live; and to lament them being dead.</p>
+            <pb n="4" facs="tcp:103211:4"/>
+            <p>The <hi>Romanes</hi> had their vaſt Funeral piles, and maſſy co<g ref="char:EOLhyphen"/>lumns for their <hi>Caeſars. Jus Gentium eſt obedire Regibus,</hi> S. <hi>Aug.</hi> It is the Law of Nations to obey Kings.<note place="margin">Conſ.</note> The Law of Nations, is the Law of God written in the heart. The Law of Chriſtians is the will of God written both in the heart, and in the holy Scriptures. The Heathens Law is more dark; the Chriſtians more clear: And therefore the Chriſtian Prince is bettet inſtructed how to rule his Subjects; the Chriſtian Subjects better informed, how to obey their Soveraignes. They ſhould better underſtand the value of a King than Heathens; and therefore more lament his loſs. Whatſoever the <hi>Babylonians</hi> did for their <hi>Nebuchadnezzar,</hi> or the <hi>Perſians</hi> for their <hi>Cyrus;</hi> this the people of God did: <hi>All Judah and Jeruſalem mourned for Joſiah.</hi>
+            </p>
+            <p>So much is peace and proſperity tyed unto Soveraignty, and entailed to the Crown, that it fareth amongſt men, as with <hi>Virgils</hi> Bees; <hi>Rege incolumi mens omnibus una eſt, Amiſſo rupêre fidem.</hi> When the King is loſt, then inſtead of hony making, there is gall and heart-breaking; the waxing fabricks are demoliſht; and Drones devour the labours of the induſtrious. Then appear factions and fracti<g ref="char:EOLhyphen"/>ons, ſects and ſchiſms; then armed ſwarms encounter, and tumble down dead together like <hi>Abners</hi> and <hi>Joabs</hi> men (2 <hi>Sam.</hi> 2.16.) as though they could agree in nothing, but to diſagree among themſelves. So ominous is the death of a King to a whole Nation, that well may <hi>all Judah and Jeru<g ref="char:EOLhyphen"/>ſalem mourn for</hi> one <hi>Joſiah.</hi>
+            </p>
+            <p>And the better the King, the greater the grief; and we have a Proverb, which ſaith, <hi>Seldome come the better;</hi> which ſpeaks that old woman <hi>Himera,</hi> who prayed for the Tyrant <hi>Dionyſius,</hi> a great deal wiſer than them, whoſe hearts and heads are ever given to change: with whom to have
+<pb n="6" facs="tcp:103211:5"/>nothing to do, is the Counſel of the wiſe <hi>Solomon,</hi> Prov. 24.21.</p>
+            <p>All changes are of dubious conſequence. A Kings tran<g ref="char:EOLhyphen"/>ſlation, often ſignifies no leſs than a Nations diſſolution; that the world may ſee a genuine ſympathy between King and people, as well as between the head and body natural. Such was the caſe between <hi>Judah</hi> and their <hi>Joſiah.</hi>
+            </p>
+            <p>He muſt be more than blind, that reads not Gods anger in the loſs of a good King; ſeeing he tells us plainly, that his wrath is ſhown in the fate of a bad one, <hi>Hoſea</hi> 13.11. <hi>I gave thee a King in mine anger, and took him away in my wrath.</hi> Holy <hi>David</hi> diſcerned Gods judgment againſt the Land in <hi>Sauls</hi> overthrow, and thus he laments it, 2 <hi>Sam.</hi> 1.19. <hi>The beauty of Iſrael is ſlain upon the high places. Tell it not in Gath, publiſh it not in the ſtreets of Askelon.</hi> At the 21. <hi>verſe,</hi> he curſeth the very field, wherein that fatall battel was fought; <hi>Ye mountain; of Gilboah, let there be no dew, nor rain upon you, nor fields of offerings; for there the ſhield of the neighty was vilely caſt away, the ſhield of Saul, as though he not been annointed with oyle.</hi> At the 24. <hi>verſe,</hi> he calls upon the Land to mourn; <hi>Ye daughters of Iſrael weep for Saul, who cloathed you with ſcarlet,</hi> &amp;c. So much are a Nation concerned to bewaile the fall of a Prince, though a <hi>Saul,</hi> and rejected of God.</p>
+            <p>But then, put Good to King, and the Good is multiply<g ref="char:EOLhyphen"/>ed; put Beſt to King, and then no other mortal perſon can come near it. Behold the <hi>Joſiah,</hi> the beſt of <hi>Judahs</hi> Kings. Never had they ſuch a King; and therefore never ſuch a loſs; never ſuch a cauſe of mourning. <hi>And all Ju<g ref="char:EOLhyphen"/>dah,</hi> &amp;c.</p>
+            <p>
+               <hi>Joſiah</hi> came to the Crown a child,<note place="margin">2 Chron. 34.1.</note> at eight years of age; whoſe tender youth excelled in piety, many Antients his Predeceſſors. He was <hi>ſenex in juventute,</hi> ſpending thoſe
+<pb n="7" facs="tcp:103211:5"/>youthfull dayes in religious exerciſes, which the generallity drive away in vain and idel excurſions. In the eighth year of his Raigh, he ſought after the God of <hi>David</hi> his Father; in the twelfth year he ſets upon reformation, purging the Land from heatheniſh prophamation. Then brake he down the Altars of the Idols, and burnt the bones of their Prieſts. And as he beat down ſuperſtition, ſo he built up true Religion; which two parts by Authority duely exe<g ref="char:EOLhyphen"/>cuted make a true reformation. Many are zealous pre<g ref="char:EOLhyphen"/>tenders to pull down ſuperſtition; but few attend or intend to advance Religion. Many cry down <hi>Diana,</hi> meerly to get the ſilver ſhrines into their cloſe cupboards. The greedy graſping and miſemploying, of the ancient devo<g ref="char:EOLhyphen"/>ted endowments of this Nation, give juſt occaſion to ſo<g ref="char:EOLhyphen"/>ber-minded perſons to ſay, whatſoever the crimes of the <hi>Papiſts</hi> might be; the zeal of the demoliſhers was too much byaz'd to the left hand: and whether or no the firſt founders meant well, the confounders did ill. So did not <hi>Joſiah.</hi> He purged the Temple, and reſtored the ſacrifi<g ref="char:EOLhyphen"/>ces of God; he rent his cloathes at the reading of the Book of God, becauſe of his peoples tranſgreſſion; for which he received an anſwer of approbation from God, and a comfortable promiſe, that <hi>he ſhould go to his grave in peace,</hi>
+               <note place="margin">Ver. 27, 28</note> 
+               <hi>and not ſee the evil that God ſhould bring upon that place.</hi>
+            </p>
+            <p>After which anſwer from God, <hi>Joſiah</hi>'s zeal was not qnenched, but enflamed. <hi>He cauſed all his people to ſerve the Lord; and all his dayes they departed not from following the Lord God of their Fathers.</hi>
+               <note place="margin">Ver. laſt.</note> And well it had been for them, that <hi>Joſiah</hi> had lived as long as <hi>Meihuſelah:</hi> for <hi>Judah</hi>'s Religion fell to the ground, together with <hi>Joſiah.</hi>
+            </p>
+            <p>This Chapter ſpeaks his zeal for Gods glory; that he kept ſo magnificent a paſſeover, as none ever before, or after him. He did not take to himſelf any thing from
+<pb n="8" facs="tcp:103211:6"/>Gods offerings;<note place="margin">Ver. 7.</note> but gave freely of his own to the offer<g ref="char:EOLhyphen"/>ings of God: thirty thouſand Lambs and Kigs, and three thouſand Bullocks. Well did <hi>Joſiah</hi> deſerve that accla<g ref="char:EOLhyphen"/>mation from his people, which <hi>Daniel</hi> gave to King <hi>Da<g ref="char:EOLhyphen"/>rius,</hi> Dan. 6.21. <hi>Oh King live for ever.</hi> Here was zeal worth the beholding. When <hi>Jehu</hi> boaſted of his zeal, he could ſhew nothing for it, but channels running with Royall bloud, and heaps made of Princes heads, 2 <hi>King.</hi> 10. <hi>Joſiah</hi> held a better ſacrifice. And much need not be ſaid in praiſe of him, of whom God himſelf hath ſaid this,<note place="margin">2 King. 23.25.</note> 
+               <hi>Like unto him was there no King before him, that turn<g ref="char:EOLhyphen"/>ed to the Lord with all his heart, and with all his ſoul; nei<g ref="char:EOLhyphen"/>ther after him aroſe there any like him. Solomon</hi> had his Idolatry; (to ſay no more) and <hi>David</hi> was found in the matter of <hi>Uriah:</hi> but we read of no capitall crime in the life of juſt <hi>Joſiah.</hi> As he was a good man, ſo a better King. When goodneſs and greatneſs go hand in hand to<g ref="char:EOLhyphen"/>gether, how great is that goodneſs! how good that great<g ref="char:EOLhyphen"/>neſs! There are many in the world, who had been good men, had they not aimed to be great men; but having aſpired to high places, became neither good Rulers, nor good perſons:<note place="margin">Trebell. <hi>Apoll.</hi>
+               </note> like <hi>Saturninus,</hi> who told his own ſouldi<g ref="char:EOLhyphen"/>ers that advanced him (and they ſoon found his words true) that they had ſpoiled a good Captain, and made an evil Prince. Little hope can be of that Kings Raign, to whom popular confuſion gives right and title. No King is like to him, that cometh to the Scepter in the Name of God, and holds it according to his Commiſſion. Such a one was good <hi>Joſiah,</hi> deſcended from <hi>David,</hi> of the Royall Tribe of <hi>Judah.</hi> Such a Kings death may well force tears to flow from all <hi>Judah</hi> and <hi>Jeruſalem.</hi>
+            </p>
+            <p>But then thirdly look upon this beſt of Kings taken away by an untimely death, cut off in the midſt of his dayes,
+<pb n="9" facs="tcp:103211:6"/>the thirty ninth of his age; and by the hand of an uncir<g ref="char:EOLhyphen"/>cumciſed <hi>Egyptian.</hi> And who but ſuch a black Infidel would have aimed to kill ſo fair a King?</p>
+            <p>But oh! what makes <hi>Joſiah</hi> expoſe his ſacred Perſon to their black darts and venemous malice? In this alone (ſet<g ref="char:EOLhyphen"/>ting humane frailty aſide) was <hi>Joſiah</hi> to be blamed, of all that we read of him. <hi>Pharaoh Necho</hi> King of <hi>Egypt</hi> came up to the River <hi>Euphrates,</hi> to fight with the King of <hi>Aſſy<g ref="char:EOLhyphen"/>ria;</hi> and <hi>Joſiah</hi> not intereſſed in the quarrell, engaged againſt the King of <hi>Egypt,</hi> prompted (perhaps) by State-policy to remove ſo bad a neighbour: but God had a fur<g ref="char:EOLhyphen"/>ther purpoſe in it, that <hi>Joſiah</hi> being taken away, <hi>Judah</hi> and <hi>Jeruſalem</hi> might ſmart for their tranſgreſſions, committed in the dayes of King <hi>Manaſſeh.</hi> So mcuh the Word of God informeth us, 2 <hi>King.</hi> 23.26, 27. Thus deep are Gods judgements. <hi>Manaſſeh</hi> the Grandfather, and his people fill <hi>Jeruſalem</hi> with bloud and abominations; and <hi>Joſiah</hi> the Grandchild a pious and tender-hearted Prince, muſt be ſlain in battell, by the hand of a curſed Infidel, and made the Prologue to the Nations tragedy.</p>
+            <p>This may ſeem to call in queſtion Gods providence, or at leaſt his promiſe; for how doth <hi>Joſiah</hi> go to his grave in peace, when he is ſlain in battell?</p>
+            <p>The anſwer is this; here in one act doth God ſhew mercy and ſeverity: mercy to <hi>Joſiah:</hi> ſeverity againſt <hi>Ju<g ref="char:EOLhyphen"/>dah.</hi> It was a mercy to him, that he lived not to ſee the evil, which they lived to feel. They that underſtand not how he died in peace, let them know, he died in peace with God, and that peace paſſeth all underſtanding. Who<g ref="char:EOLhyphen"/>ſo hath that peace, need not fear <hi>Egyptian</hi> arrows: but he that hath it not, dies untimely though he live long; and dies unhappily, though a naturall death. What an arrow did to <hi>Joſiah,</hi> a feaver or any other diſeaſe might have
+<pb n="10" facs="tcp:103211:7"/>done; and of neceſſity ſomething muſt do. The arrow that ſlew him, wounded all <hi>Judah</hi> and <hi>Jeruſalem.</hi> It was to him the arrow of Gods deliverance; to them the arrow of Gods vengeance: it was to him but a ſingle death; but to them, a manifold judgement. Not the Sun, but the ſublunary creatures ſuffer by the Suns eclipſe. <hi>Joſiah</hi> was delivered from a rebellious people, to keep a perpetuall holy day with Saints and Angels; whileſt they have leave to ſigh and groan under a long <hi>Babyloniſh</hi> ſervitude. <hi>And then all Judah and Jeruſalem mourned for Joſiah.</hi> And ſo come we to the perſons mourning.</p>
+            <p>
+               <hi>And all Judah,</hi> &amp;c. <hi>Judah</hi> was <hi>Jacobs</hi> fourth ſon by <hi>Leah,</hi> and predicted to be the head of that ſtock, whence Chriſt lineally was to be derived according to the fleſh, <hi>Gen.</hi> 49.8. The whole Tribe is here put in the name of their great Progenitour. So, all <hi>Judah,</hi> all the Princes and Nobles were perfect Royalliſts. None of them at<g ref="char:EOLhyphen"/>tempted, none conſpired, none rejoyced, but all lament<g ref="char:EOLhyphen"/>ed at the death of good King <hi>Joſiah.</hi> It would have been an eternall blot to the Tribe, had not the branches caſt their leaves, when the ſtock was ſo cut down. They muſt have been baſtard imps, and degenerate plants, that had been otherwiſe affected for <hi>Joſiah. And all Judah and Jeruſalem mourned,</hi> &amp;c.</p>
+            <p>
+               <hi>Jeruſalem</hi> was the Royall City, and reſidence of Kings; the Metropolis,<note place="margin">Pſal. 122.</note> the joy of the whole earth. There were the liverly Oracles, the Courts Civil and Eccleſiaſticall, the Prieſts and Levites, the Judges and Elders. There was Mount <hi>Sion, whoſe gates God loved more than all the dwellings of Jacob,</hi> Pſal. 87.1. This <hi>Jeruſalem,</hi> this great and glorious City, <hi>All Judah and Jeruſalem mourned for Joſiah.</hi>
+            </p>
+            <p>As then <hi>Judas</hi> the traitor was not born; nor had the
+<pb n="11" facs="tcp:103211:7"/>Prieſts learned to betray, or to buy and ſell their King in the Temple. Though bad they were, yet ſo bad they were not. They did not then rejoyce, but mourn for the untimely death of Princes. To this all <hi>Judah</hi> and <hi>Jeruſalem</hi> by their noble extraction, and by their civil and ſacred education held themſelves obliged; being far unlike to ſome great Cities, which prodigiouſly have rebelled againſt thoſe good Kings, under the ſhadow of whoſe wings, they have grown warm in wealth, and cold in obedience. But <hi>Jeruſalem</hi> held firm to <hi>Joſiah</hi> in his life; and they moſt heartily bewail his death. <hi>And all Judah,</hi> &amp;c.</p>
+            <p>And a poor All they were, God knoweth; but his one only Tribe of <hi>Judah</hi> was now free from bondage. <hi>En quò diſcordia cives perduxit miſeros!</hi> See whither civil diſ<g ref="char:EOLhyphen"/>cord brings the wretched people! They firſt diſunited in the dayes of <hi>Ieroboam;</hi> from which time, corruption upon corruption followed, untill all <hi>Iſrael</hi> for their ſins were car<g ref="char:EOLhyphen"/>ried captive by the King of <hi>Aſſyria,</hi> and none left, but this Tribe of <hi>Judah</hi> only. And now even the glaſs of <hi>Ju<g ref="char:EOLhyphen"/>dah</hi> was faſt running out, and to haſten it, was much ſha<g ref="char:EOLhyphen"/>ken by the ſad fall of their <hi>Joſiah.</hi> This judgement was their paſſing Bell. Now he was gone that ſtood in the gap, and there was no ſence for Heavens thunderclaps. <hi>And now all Judah,</hi> &amp;c.</p>
+            <p>
+               <hi>Grande doloris ingenium,</hi> ſorrow maketh men truly in<g ref="char:EOLhyphen"/>genious: want puts the beſt eſteem upon Gods mercies. When <hi>Iſrael</hi> had enjoyed <hi>Samuel</hi> from his infancy to his old age; though they could not find a fault in him, yet they grew weary of him: but when he was dead, they all lamented him, 1 <hi>Sam.</hi> 25.1. It is one of the vulgar er<g ref="char:EOLhyphen"/>rours, and may be put in our Engliſh Calendar, <hi>Praeſentem odimus, amiſſum querimur,</hi> whom we hate preſent, we bewail when gone. Perhaps <hi>Joſiah,</hi> when with them,
+<pb n="12" facs="tcp:103211:8"/>pleaſed not all parties. <hi>Qui multitudini praeeſt, multis diſpliceat,</hi> He that rules over the multitude muſt di<g ref="char:EOLhyphen"/>ſpleaſe many. Probably, to the favourers of Idolatry <hi>Joſiah</hi> ſeemed ſacrilegious; to the ſacrilegious, to be ſu<g ref="char:EOLhyphen"/>perſtitious; and to the lazy <hi>Iſraelite,</hi> to be too ſevere and zealous. <hi>Benè facere, &amp; malè pati Regium,</hi> To do well, and hear illis Kingly. Howbeit, whatſoever they thought of him in his life, they all bemoan his death. <hi>All Judah and Jeruſalem mourned,</hi> &amp;c.</p>
+            <p>Now began their ſorrow; never more were they to ſee ſuch another King in that Nation, that they might know the difference between a Native Prince and a <hi>Babyloniſh</hi> Tyrant. No ſect nor ſex eſcaped the <hi>Caldeans</hi> rod. So generall the miſery; ſo generall the mourning. From the Prince on the Throne, to him that ſits on the dung<g ref="char:EOLhyphen"/>hill; all are concerned to mourn for one <hi>Joſiah.</hi>
+            </p>
+            <p>The Prophet <hi>Jeremy</hi> having a deeper inſight into this wound of the Nation, than the generallity; lamented not only himſelf, but taught all the people to lament alſo, as the following Verſe ſheweth. <hi>All the ſinging men and ſinging women ſpake of Joſiah in their lamentations, and made them an Ordinance in Iſrael: and behold they are writ<g ref="char:EOLhyphen"/>ten in the Lamentations. Jeremiah</hi> an eminent Prophet was moſt ſenſible of the loſs of <hi>Joſiah</hi> an excellent King. <hi>De arte nemo niſi artifex,</hi> An Artiſt beſt judgeth of art; and good men of good men. The Book of <hi>Lamentations</hi> was compoſed by the Prophet, <hi>In perpetuam rei memoriam. Jeremy</hi> and his holy contemporaries, made <hi>Joſiah</hi>'s death a matter of mourning, unto all generations, by a Law and Ordinance; to teach even us, that we ought to be humbled for, and retain the memory of the untimely death of godly Kings. It was an ominous preſage, that <hi>Judah</hi> was commanded to mourn by an Ordinance; and
+<pb n="13" facs="tcp:103211:8"/>mark the ſequell: About two and twenty years and ſix moneths after <hi>Joſiah</hi>'s death, the <hi>Caldeans</hi> came, and ruin<g ref="char:EOLhyphen"/>ed Prince, Nobles, Prieſts and people, carring the poor remnant into captivity, where they continued threeſcore and ten years. After more than fourſcore years, had they greater cauſe to mourn that pious Prince's fall, than the firſt day. The child, whoſe father was unborn when <hi>Joſiah</hi> was ſlain, had cauſe to curſe thoſe ſwarth <hi>Egyptians.</hi> So long liv'd are thoſe ſorrows, which have their birth at the Prince's death. A nation is ſoon wounded; but the wound is not ſo ſoon healed. And now having ſeen <hi>Ju<g ref="char:EOLhyphen"/>dah</hi>'s and <hi>Jeruſalem</hi>'s caſe, we come to make it our own; and to act the ſecond part of <hi>Jeremy</hi>'s lamentation.</p>
+            <p>But how or where well to begin, or end our lamentati<g ref="char:EOLhyphen"/>on; alas, I know not. None but <hi>Apelles</hi> his Pencill, was thought ſit to draw Great <hi>Alexander</hi>'s picture; and it would require another <hi>Jeremiah,</hi> to ſpeak to purpoſe of our <hi>Joſiah.</hi>
+            </p>
+            <p>To declare our Late King of ever bleſſed memory, his life and vertues, his miſeries, and death; and in all theſe our own ſin and ſhame; who is ſufficient for theſe things?</p>
+            <p>Yet nevertheleſs, as the <hi>Jeremiah</hi>'s of the times may compoſe Books: ſo the poor <hi>Levites</hi> may come in, to bear a part in the ſorrowfull ſong.</p>
+            <p>The mean perſon may have as true a ſenſe of this miſe<g ref="char:EOLhyphen"/>ry, though not ſo full a one, as the great ones.</p>
+            <p>And ſince it hath pleaſed God to bring me to the task of this ſad day; I deſire you to aſſiſt me herein, that what is wanting in elocution, may be made up in godly ſorrow and contrition, concerning the ſad ſtory of our <hi>Joſiah.</hi>
+            </p>
+            <p>As <hi>Hezekiah</hi> ſaid, (2 <hi>King.</hi> 19.3.) ſo may I, <hi>This day is a day of trouble, and of rebuke, and of blaſphemy.</hi>
+            </p>
+            <p>
+               <hi>A day of trouble;</hi> for it cauſed the Nation many dayes
+<pb n="14" facs="tcp:103211:9"/>and years of trouble; and how many more it may, God knows: who in his juſt judgement, hath ſmitten man and beaſt with manifold plagues and puniſhments. <hi>And for all this, his wrath is not turned away, but his hand is ſtretched out ſtill.</hi>
+            </p>
+            <p>
+               <hi>A day of rebuke</hi> it is, from all them that are round about us. The <hi>Papiſts</hi> retort upon us all thoſe crimes, where<g ref="char:EOLhyphen"/>with we charged the <hi>Jeſuites,</hi> as equivocation, perjury, ſedition, rebellion, treaſon, and murthering of Kings.</p>
+            <p>
+               <hi>And a day of blaſphemy</hi> it is; for Jews, Turks, Pagans and Infidels ſcoff at Chriſtian Religion, and ſay; Lo theſe are Chriſts Diſciples, who have caſt aſide their Maſters precepts, neither give God nor <hi>Caeſar</hi> his due, neither fear God, nor regard man. Yea, it is to be feared, that by this bloody dayes work the Devil hath gotten many an Atheiſt. Many perſons ſeeing ſo righteous a Prince fall by ſo wicked hands, in ſo horrid a manner, were apt to conclude, it was in vain to ſerve God any longer. For this every faithfull perſon may cry out with the Prophet <hi>Jeremy,</hi> chap 9.1. <hi>Oh that my head were waters, and mine eyes a fountain of tears,</hi> &amp;c.</p>
+            <p>A true <hi>Joſiah</hi> our Late Soveraign was indeed, a bright and ſhining Lord, conſpicuous in his high affection for Gods glory, and the welfare of his people. To this end was he born, to bear witneſs to the truth; and (<hi>horreſco referens</hi>) for this was he murthered. Full well might he ſay,<note place="margin">Pſal. 69.9.</note> with <hi>David</hi> in his meditations, to the Lord; <hi>The zeal of thy houſe hath even conſumed me.</hi>
+            </p>
+            <p>His name <hi>Charles</hi> ſignifieth magnanimous, valiant; a name famous long ſince, for <hi>Charles Martell,</hi> and <hi>Charles</hi> the Great, Kings of <hi>France:</hi> but now more famous for <hi>Charles</hi> Martyr, <hi>Charles</hi> the good King of, <hi>Charles</hi> the too good King for <hi>England.</hi> He was (even his enemies being
+<pb n="15" facs="tcp:103211:9"/>Judges) worthy of the Kingdome, had he not been own<g ref="char:EOLhyphen"/>er of it; but becauſe owner of it, held unworthy of life. Such paradoxes are held in Satan's Schools. A King he was, whom all Nations admired, but his own; in this al<g ref="char:EOLhyphen"/>ſo like his Saviour,<note place="margin">Mat 13.57</note> who had no honour in his own Coun<g ref="char:EOLhyphen"/>trey.</p>
+            <p>A Prince he was, who was the glory of <hi>Europe,</hi> and the ſhame of his own degenerate people born in <hi>Scotland;</hi> and but that he was born there, I ſhould have ſaid of it,<note place="margin">Joh. 1.46.</note> as <hi>Nathanael</hi> of <hi>Nazareth, Can there any good thing come out thence?</hi> I would be loth to ſay that he rob'd the Nationall ſtock; but (ſaving to each truly worthy perſon his re<g ref="char:EOLhyphen"/>ſpective dignity) this I may ſafely ſay, as was ſaid of <hi>Jo<g ref="char:EOLhyphen"/>ſiah: Before him aroſe no ſuch King</hi> (God knows what may be after him) <hi>in our Judah and Jeruſalem.</hi> The great<g ref="char:EOLhyphen"/>er cauſe have we all to mourn for our <hi>Joſiah.</hi>
+            </p>
+            <p>He was a King, who had made an abſolute conqueſt over himſelf; having his paſſions in better obedience, than any Prince hath his Subjects. He was pious and diſcreet; heroick, yet withall patient; in his proſperity ſober and moderate; in his adverſity magnanimous and conſtant; in his judgement profound, yet not deſpiſing counſell; in his determinations deliberate; and in defence of the truth invincible.</p>
+            <p>The coal which the <hi>Seraphim</hi> laid upon <hi>Eſay</hi>'s lips,<note place="margin">Iſa. 6.7.</note> was beſtowed upon his Pen; whereby he drew out his own Picture in thoſe excellent Pieces, which he left behind him, for the world to look upon with wonder and reverence.</p>
+            <p>There may weread his zeal truly ballanc'd with profound knowledge, piety, and modeſty; his grief for the ruines of Gods Church, and his people; his care for his friends; his charity for this enemies; his commiſeration of others, and courage in his own afflictions: and in all ſo even a tem<g ref="char:EOLhyphen"/>per;
+<pb n="16" facs="tcp:103211:10"/>that never any came nearer him, who at his Croſs did ſay,<note place="margin">Luk. 23.34.</note> 
+               <hi>Father forgive them, for they know not what they do.</hi>
+            </p>
+            <p>Thus God takes the moſt ſpotleſs Lambs for ſacrifice. For his piety and acute inſpection into ſacred myſteries, he was as much a Prieſt as a King: and for his divine fore<g ref="char:EOLhyphen"/>knowledge, as much a Prophet; a <hi>Triſmegiſtus,</hi> thrice great; in this age unparaleld. A real Defender of the Faith, whoſe Quill wounded to the death with invincible Arguments, both Hereticks and Schiſmaticks. A true Beauclerk, and beſt deſerving that Title; as much a Scho<g ref="char:EOLhyphen"/>lar as a Prince; as much a Chriſtian as either; and as much all in one, as ever was any mortall one. In brief, he was, and he is, not only to this Nation, but to all Chriſtendome, a mirrour to think how he lived; a grief to think how he died. Then let all our <hi>Judah</hi> and <hi>Jeruſa<g ref="char:EOLhyphen"/>lem</hi> mourn for our <hi>Joſiah.</hi>
+            </p>
+            <p>And if all <hi>Judah</hi> and <hi>Jerſalem</hi> mourned; much more cauſe have we. They were not immediately guilty of the death of their King, nor any otherwiſe, than by the pro<g ref="char:EOLhyphen"/>vocation of their ſins. They contrived not <hi>Joſiah</hi>'s mur<g ref="char:EOLhyphen"/>ther; they did not confederate with the curſed <hi>Egyptians;</hi> they fell not from obedience; they took not up Arms againſt him; they did not buy and ſell him; they did not pretend a Law; erect a Scaffold to butcher him, nor make his Royall Palace his ſlaughter-houſe; they did not triumph over the dead Kings Corps, and juſtifie the fact; oh no: but what an <hi>Egyptian</hi> did, they bewail and lament, bathing the bloody Corps with tears, and embalming his precious memory with a ſet form of lamentation. <hi>And all Judah and Jeruſalem mourned for Joſiah.</hi>
+            </p>
+            <p>Thus was the caſe of our <hi>Joſiah</hi> far beyond theirs; and moſt near to that of our bleſſed Saviour. <hi>Inter malitiam
+<pb n="17" facs="tcp:103211:10"/>&amp; avaritiam,</hi> Between the malice of ſome, and the ava<g ref="char:EOLhyphen"/>rice and ambition of others (as Chriſt between the thieves) was he crucified. Some corrupt and ſtinking Elders, ſome bloody hypocriticall Prieſts, and ſome phariſaicall Zelots, pretend to do God ſervice, by violating his holy Commandements.</p>
+            <p>Here a <hi>Judas</hi> comes with his, <hi>Quantum dabitis?</hi> What will ye give me, and I will betray him? There a temporizing Courtier, who eat bread at his Table, lift up his heel againſt him. Such practices Heathens have ab<g ref="char:EOLhyphen"/>horred. <hi>Am I a Jew?</hi> (ſaid <hi>Pilate</hi> to Chriſt) <hi>thine own Nation and the chief Prieſts have delivered thee unto me.</hi> His own Nation, even thoſe, who by all Laws of God and man were obliged to defend him. This was a heavy aggravation of Chriſts ſufferings; and ſo it was of our gracious Soveraigns. The baſe <hi>Scots</hi> ſold him; as baſe <hi>Engliſh</hi> bought him; the receiver and the thief are both in one predicament: and the Nation may ſay to either party, as <hi>Simon Peter</hi> ſaid to <hi>Simon Magus, Pecunia tua tibi ſit in perditionem,</hi>
+               <note place="margin">Act. 8.20.</note> They money periſh with thee.</p>
+            <p>How hath this wounded and ſtained our Church and Nation! And we, whither have we cauſed our ſhampe to go? If the guilt of a brothers blood cryed to Heaven for vengeance, as God told <hi>Cain,</hi> Gen. 4.10. then how much more the blood of a father, the common father of three Chriſtian Kingdomes? If <hi>Saul</hi>'s death were deplorable, yet he a wicked perſon, and the <hi>Philiſtines</hi> none of his Sub<g ref="char:EOLhyphen"/>jects; then how much more this caſe,<note place="margin">2 Sam 4.11.</note> where wicked Sub<g ref="char:EOLhyphen"/>jects, like <hi>Baanah</hi> and <hi>Rhecab</hi> have murther'd a righteous man, and their moſt gracious King, at his own houſe, in his Royall <hi>Jeruſalem?</hi> How ought this to afflict us? Know ye not that there is a Prince, and a great man fallen this day in our <hi>Iſrael?</hi> He is fallen, and with him fell <hi>Judah</hi> and
+<pb n="18" facs="tcp:103211:11"/>
+               <hi>Jeruſalem; Judah,</hi> the Nobility and Gentry, Laws and Juſtice; <hi>Jeruſalem,</hi> Church and Religion, doctrine and diſcipline, piety and morality. The Civil State was forth<g ref="char:EOLhyphen"/>with corupted in practice, the Eccleſiaſticall in judgement and worſhip. Thus all <hi>Judah</hi> and <hi>Jeruſalem</hi> have cauſe to mourn for our <hi>Joſiah.</hi>
+            </p>
+            <p>And all, all indeed have cauſe to mourn. The Princes Nobility and Gentry have cauſe to mourn; to think what a breach the Lord hath made upon them, by the propha<g ref="char:EOLhyphen"/>nation of the Scepter, and diſhonour of the Diadem. For whoſe honour of life can be ſafe, where Kings ſhields are thus vilely caſt away?</p>
+            <p>The Biſhops and Paſtors of the Church have cauſe to mourn; for ſince the death of that Defender of the Faith, prophaneneſs, hereſies, and ſchiſmes have revived and flouriſhed; ſaving truths and orthodox Miniſters have lan<g ref="char:EOLhyphen"/>guiſhed; they that ſold the truth, have with the wages of iniquity bought preferment; <hi>Et probit as laudatur &amp; alget,</hi> and honeſty is only praiſed and ſtarved.</p>
+            <p>The common people have cauſe to mourn; the cheat of the publick Faith hath weaken'd their private credits; tax<g ref="char:EOLhyphen"/>es have exhauſted their purſes; others have eaten up their labours; and the evil ſpirits (I mean the miſeries) which were quickly raiſed, are not like ſoon to be conjured down. Well may the whole Land mourn for the miſemployed wealth, wherewith they purchaſed the death of their moſt gracious King; and (without Gods wonderfull mercy upon their hearty repentance) miſery and vengeance on themſelves and their poſterities.</p>
+            <p>The greateſt of the Kings enemies have greateſt cauſe to mourn, both upon a ſacred, and a civil account. Upon a facred; becauſe their ſouls lye at ſtake for that bloody ſa<g ref="char:EOLhyphen"/>crifice: and upon a civil, becauſe they now ſee the axe
+<pb n="19" facs="tcp:103211:11"/>laid to them in juſtice which they brought upon others un<g ref="char:EOLhyphen"/>juſtly. For having <hi>Agag</hi>'s cruelty,<note place="margin">1 Sam. 15.33.</note> they ſuffer <hi>Agag</hi>'s doom; which was this; <hi>As thy ſword hath made women childleſs; ſo ſhall thy mother be childleſs among women.</hi> And it comes upon them, as upon him, when they ſaid, <hi>Surely the bitterneſs of death is paſt.</hi> And God grant that they all may be true mourners, that their ſcarlet ſins may be made white by the blood of Chriſt Jeſus. It is not our part to rejoyce at any mans miſery; and far is it (I thank God) from my thoughts to do ſo. But I ſhould be cruell, if in this buſineſs I ſhould not be ſtrict in laying open the atroci<g ref="char:EOLhyphen"/>ty of the crime.</p>
+            <p>My hearts deſire for all thoſe that hear me this day, and for all thoſe that do not, is, that they may be ſaved. And I hope no man will count me an enemy, becauſe I tell him the truth. <hi>It is ſorrow unto repentance that bringeth ſalva<g ref="char:EOLhyphen"/>tion,</hi> 2 Cor. 7.10. The work of this day calls for mourn<g ref="char:EOLhyphen"/>ing, for more than an ordinary mourning. And the bleſ<g ref="char:EOLhyphen"/>ſing of Chriſt is pronounced to mourners, <hi>Mat.</hi> 5.4. My prayer is, that God would firſt give every man true ſor<g ref="char:EOLhyphen"/>row of heart, for all his ſins, and more eſpecially for this great ſin; and then that he would give him the comfort of his holy Spirit, as he did to <hi>David</hi> in the time of his great need, that he may not be ſwallowed up of overmuch grief. I ſhall ſay no more to ſet forth the uglineſs of this monſter, this black deed; for I am charitably perſwaded, that eve<g ref="char:EOLhyphen"/>ry one here preſent doth more abhor it in his heart, than I am able to conceive or expreſs. And therefore let no man miſunderſtand me, and think, becauſe I have (as I ought) throughout this Diſcourſe, and upon all other occaſions, eternally condemned the fact, that therefore I have ever<g ref="char:EOLhyphen"/>laſtingly damned all perſons concerned in it. God forbid. There was hope, and place of repentance, yea, and infal<g ref="char:EOLhyphen"/>lible
+<pb n="20" facs="tcp:103211:12"/>means of ſalvation, for them that had their hands ſtained with the blood of Chriſt Jeſus. When S<hi rend="sup">t</hi> 
+               <hi>Peter</hi> had laid the crime home moſt ſeverly to them, and they were pricked in their hearts, and ſaid, <hi>Men and brethren what ſhall we do?</hi> Act. 2.37. he did not bid them lye down and periſh; but <hi>repent and ſave themſelves from that unto<g ref="char:EOLhyphen"/>ward generation.</hi> And upon this <hi>there were converted that day, three thouſand ſouls.</hi> And God grant that this dayes preaching, may be proportionably, as effectuall through<g ref="char:EOLhyphen"/>out this Nation.</p>
+            <p>Brethren, we are all guilty of this dayes crime, though after ſundry manners; well then, let us not be angry one with another any longer: but let every man be angry with himſelf for his ſinfull wayes. Let us condemn our ſelves, and God will not condemn us. <hi>If we confeſs our ſins, God is faithfull and juſt to forgive us our ſins, and to cleanſe us from all unrighteouſneſs.</hi>
+            </p>
+            <p>Let there be no more diſcord; let us henceforth fear God and the King, and love one another, as he hath commanded us. Give me leave to uſe that phraſe of ſpeech, which hath been long abuſed; let us aſſociate againſt the common enemy. The common enemy is the Devil; his dominion is ſin; and his Kingdome is enlar<g ref="char:EOLhyphen"/>ged by our diviſions. Let us ſtrive to beat down ſin in our ſelves, and to advance the Kingdome of Chriſt, which conſiſts in <hi>righteouſneſs, peace, and joy in the holy Ghoſt,</hi> Rom. 14.17.</p>
+            <p>This Text I have choſen for the day, calls to us unani<g ref="char:EOLhyphen"/>mouſly for mourning; the occaſion I have ſhewed you to be a very ſad one. As for our <hi>Joſiah,</hi> our Late gracious King; our ſorrow reacheth not to him. <hi>Injuriam facit Martyri, qui orat pro Martyre,</hi> He injures the Martyr that prays for him. Let our mourning then be for our ſelves,
+<pb n="21" facs="tcp:103211:12"/>and for our ſins, which helped forward his death and our own miſery. Methinks I hear his glorious ſoul ſaying to us, as our Saviour did to the Daughters of <hi>Jeruſalem,</hi> Luk. 23.28. <hi>Weep not for me, but for your ſelves and for your children.</hi> Ye know what followeth in the next words; and we know not how nearly they may concern us. <hi>Judah</hi> and <hi>Jeruſalem</hi> rued <hi>Joſiah</hi>'s death full many a year after; indeed they never did outgrow it. And we the people of this Land (for ought we know) may every year more and more have cauſe to mourn for our <hi>Joſiah.</hi>
+            </p>
+            <p>
+               <hi>The Lord give us all a true inſight into our ſelves, and our own dangers. The Lord be mercifull unto us, and re<g ref="char:EOLhyphen"/>ſtore the voice of joy and health into our dwellings. Deliver us from blood-guiltineſs Oh God, thou that art the God of our ſtrength, and our tongues ſhall ſing of thy righteouſneſs. Grant this O Lord for Jeſus Chriſts ſake our Saviour and Redeemer.</hi> Amen.</p>
+            <closer>Laus Doe.</closer>
+            <trailer>FINIS.</trailer>
+         </div>
+      </body>
+   </text>
+</TEI>
